@@ -13,11 +13,11 @@ Disclaimer: The screenshots provided are for demonstration purposes only. All da
 ● Scalability & High Availability – Designed for handling high-volume data with cloud infrastructure.
 
 # Tech Stack
-● Frontend: ReactJS, JavaScript, TypeScript, HTML5, CSS3, TailwindCSS
-● Backend: Node.js, PHP
+● Frontend: ReactJS, JavaScript, HTML5, CSS3, TailwindCSS
+● Backend: Node.js, PHP, Joomla CMS
 ● Database: MySQL, AWS DynamoDB
 ● AI & Machine Learning: TensorFlow, OpenAI API, AWS SageMaker
-● Data Visualization: Highcharts, OpenLayer, Google Maps API, Leaflet
+● Data Visualization: Highcharts, OpenLayer, Leaflet
 ● Authentication & Security: Okta, OAuth, JWT
 ● Infrastructure: AWS (EC2, S3, Lambda, RDS), Terraform, Docker, Kubernetes
 ● CI/CD & Project Management: Git, GitLab, Jenkins, Jira
