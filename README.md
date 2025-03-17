@@ -1,5 +1,6 @@
 # GTAP Globe Telecom Intelligence Portal
-Disclaimer: The screenshots provided are for demonstration purposes only. All data displayed in the images are sample data and do not represent real user information, transactions, or network performance. Any resemblance to actual data is purely coincidental. This system is intended for internal evaluation and presentation only.
+Disclaimer: 
+The screenshots provided are for demonstration purposes only. All data displayed in the images are sample data and do not represent real user information, transactions, or network performance. Any resemblance to actual data is purely coincidental. This system is intended for internal evaluation and presentation only.
 
 # System Features & Capabilities
 ● Real-time Data Analytics – Processes telecom network data to generate actionable insights.
